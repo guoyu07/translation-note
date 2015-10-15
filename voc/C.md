@@ -1,5 +1,4 @@
-### C
--------------
+# C
 - **class hierarchy** 类分层结构-->类层次，或者类层次结构，与inheritance hierarchy译法统一。
 - **convention-over-configuration**     惯例优先？单看中文恐怕想不到英文原文的。建议更忠实一些。
 - **constructor** Java程序设计语言。constructor译为构造器。
@@ -11,3 +10,5 @@
 - **computer vision** 机器视觉
 - **concurrency** 并发
 - **cryptography** 加密、密码学
+- **cascading failure** 连锁故障
+- **constraint programming** 约束规划
