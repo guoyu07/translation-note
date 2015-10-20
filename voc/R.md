@@ -6,3 +6,4 @@
 - **replication** 复制
 - **resilience** 复原能力
 - **runtime** 运行时
+- **repository** 档案库

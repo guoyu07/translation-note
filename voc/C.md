@@ -12,3 +12,7 @@
 - **cryptography** 加密、密码学
 - **cascading failure** 连锁故障
 - **constraint programming** 约束规划
+- **change** 变更
+- **check out** 取出
+- **commit** 提交
+- **conflict** 冲突
