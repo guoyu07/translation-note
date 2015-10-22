@@ -1,4 +1,5 @@
 # F
+- **factory** 工厂
 - **fake data** 伪数据
 - **fault-tolerant** 容错
 - **fetch** 抓取或获取，统一即可。

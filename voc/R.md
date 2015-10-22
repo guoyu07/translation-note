@@ -6,5 +6,7 @@
 - **replication** 复制
 - **repository** 档案库
 - **resilience** 复原能力
+- **resource load** chart，资源负荷图
 - **rest restful**
+- **rss feed** rss源
 - **runtime** 运行时

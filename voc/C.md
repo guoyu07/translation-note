@@ -6,15 +6,17 @@
 - **class hierarchy** 类分层结构-->类层次，或者类层次结构，与inheritance hierarchy译法统一。
 - **cluster** 集群
 - **commit** 提交
+- **comprehension** 函数式编程中list语法
 - **computer vision** 机器视觉
 - **concurrency** 并发
 - **concurrent** 并发
 - **conflict** 冲突
 - **constraint programming** 约束规划
 - **constraint satisfaction ** 约束满足
-- **constructor** Java程序设计语言。constructor译为构造器。
+- **constructor** Java程序设计语言。constructor译为构造器；构造函数
 - **Continuous Integration** 持续集成 CI
 - **convention-over-configuration**     惯例优先？单看中文恐怕想不到英文原文的。建议更忠实一些。
 - **coordination service** 协调服务
+- **corner case** 冷僻案例 
 - **cryptography** 加密、密码学
 - **CSV Comma-Separated Value** 逗号分隔值

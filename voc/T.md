@@ -3,3 +3,5 @@
 - **terminal** 终结符。对应的，nonterminal称为非终结符
 - **token** 标记
 - **toolkit** 工具箱；工具包
+- **trampoline** 函数式编程术语，暂时未找到合适的翻译
+- **trap** 陷阱 
