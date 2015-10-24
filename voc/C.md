@@ -5,6 +5,7 @@
 - **check out** 取出
 - **class hierarchy** 类分层结构-->类层次，或者类层次结构，与inheritance hierarchy译法统一。
 - **cluster** 集群
+- **column** 列
 - **commit** 提交
 - **comprehension** 函数式编程中list语法
 - **computer vision** 机器视觉

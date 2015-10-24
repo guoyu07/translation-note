@@ -4,3 +4,4 @@
 - **developer** 开发者
 - **distributed databases** 分布式数据库
 - **distribution** 发布
+- **dynamic language** 动态语言
